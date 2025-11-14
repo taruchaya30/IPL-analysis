@@ -67,7 +67,7 @@ Matches Lost
 
 Team Logos for visual clarity
 
-# Features
+# 📂 Features
 
 ✔ Dynamic Season Slicer
 
@@ -115,7 +115,7 @@ Team Logos for visual clarity
   
   Team logo-based identification
 
-  # Skills Demonstrated
+  # 📊 Skills Demonstrated
   
   - Data Modeling
    
@@ -128,3 +128,9 @@ Team Logos for visual clarity
   - Visualization & UI/UX in Power BI
    
   - Sports analytics reporting
+
+# 📌 Author
+
+  Taruchaya Shanker
+  
+  Data Analyst | Power BI | SQL | Python
