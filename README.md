@@ -47,8 +47,6 @@ This dashboard delivers:
 
    Runs: 4970
 
-   4970
-
 🟣 Purple Cap (Most Wickets)
 
 Player: HV Patel
