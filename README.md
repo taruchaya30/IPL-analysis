@@ -7,33 +7,33 @@ This dashboard provides a visually rich and intuitive interface for exploring ma
 
 This dashboard delivers:
 
-Season Winner & Runner-Up insights
+- Season Winner & Runner-Up insights
 
-Orange Cap & Purple Cap Analysis
+- Orange Cap & Purple Cap Analysis
 
-Team-wise performance summary
+- Team-wise performance summary
 
-Key batting & bowling statistics
+- Key batting & bowling statistics
 
-Season selector for dynamic analysis
+- Season selector for dynamic analysis
 
-KPI metrics including:
+- KPI metrics including:
 
-Total Matches
+  - Total Matches
 
-Total Fours
+  - Total Fours
 
-Total Sixes
+  - Total Sixes
 
-Total Centuries
+  - Total Centuries
 
-Total Half-Centuries
+  - Total Half-Centuries
 
-Total Venues
+  - Total Venues
 
-# Number of Teams participated
+  - Number of Teams participated
 
-🏆 Key Insights From 2024 Season (as shown in the dashboard)
+# 🏆 Key Insights From 2024 Season (as shown in the dashboard)
 
 🥇 Season Winner: Kolkata Knight Riders
 
@@ -41,18 +41,33 @@ Total Venues
 
 🔶 Orange Cap (Most Runs)
 
+   Player: V Kohli
 
- # Team Performance Table
- 
-   Displays key metrics for each franchise:
-   
-   Matches Played
-   
-   Matches Won
-   
-   Matches Lost
-   
-   Team Logos for visual clarity
+   Team: Royal Challengers
+
+   Runs: 4970
+
+   4970
+
+🟣 Purple Cap (Most Wickets)
+
+Player: HV Patel
+
+Team: Punjab Kings
+
+Wickets: 24
+
+📊 Team Performance Table
+
+Displays key metrics for each franchise:
+
+Matches Played
+
+Matches Won
+
+Matches Lost
+
+Team Logos for visual clarity
 
 # Features
 
@@ -104,14 +119,14 @@ Total Venues
 
   # Skills Demonstrated
   
-   Data Modeling
+  - Data Modeling
    
-   Data Cleaning & Transformation
+  - Data Cleaning & Transformation
    
-   KPI Creation
+  - KPI Creation
    
-   DAX Calculations
+  - DAX Calculations
    
-   Visualization & UI/UX in Power BI
+  - Visualization & UI/UX in Power BI
    
-   Sports analytics reporting
+  - Sports analytics reporting
