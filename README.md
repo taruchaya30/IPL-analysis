@@ -1,9 +1,9 @@
-# IPL Performance Analytics Dashboard (2008–2025)
+# 🏏 IPL Performance Analytics Dashboard (2008–2025)
 
 An interactive Power BI dashboard designed to analyze 17 seasons of IPL data (2008–2025), offering a deep dive into team performance, player statistics, season outcomes, and key metrics across the league’s history.
 This dashboard provides a visually rich and intuitive interface for exploring match outcomes, season winners, batting and bowling leaders, team-wise performance consistency, and much more.
 
-# Dashboard Overview
+# 📌 Dashboard Overview
 
 This dashboard delivers:
 
